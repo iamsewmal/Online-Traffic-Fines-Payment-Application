@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dormmom.flutter_stripe_payment" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <application>
+        <activity
+            android:name="com.dormmom.flutter_stripe_payment.PaymentActivity"
+            android:label="Add Payment Method"
+            android:theme="@android:style/Theme.Holo.Light.Dialog.NoActionBar" />
+    </application>
+
+</manifest>

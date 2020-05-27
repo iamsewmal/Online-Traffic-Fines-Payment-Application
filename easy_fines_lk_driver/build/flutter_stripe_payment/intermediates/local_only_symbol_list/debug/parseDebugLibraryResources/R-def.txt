@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+anim slide_down
+anim slide_up
+color colorPrimary
+color colorPrimaryDark
+color colorWhite
+id btn_create_payment_method
+id card_input_widget
+id mProgressBar
+layout card_input_widget
+string save
+style FullScreenDialogStyle
